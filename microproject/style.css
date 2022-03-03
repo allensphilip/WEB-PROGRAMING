@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+	background-color: #006600; 
+	background-image:url(img/hbg.jpg); 
+	background-repeat:no-repeat; 
+	background-position: center; 
+	background-size: cover
+}
+table{
+  border: 2px solid #15b315;
+  width:60%;
+  height:100;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+
+}
+td{
+  text-align: center;
+  padding: 10px;
+}
+th.head2{
+  padding-top: 15px;
+  border: 2px solid #00ff00;
+  vertical-align: center;
+}
+th.head{
+  font-size: 20px;
+  text-shadow: 8px #99ff99;
+}
+a{
+  color: #00ff00;
+  text-decoration: none;
+
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: greenyellow;
+}

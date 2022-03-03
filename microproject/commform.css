@@ -1,0 +1,13 @@
+input{
+    width:100%
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-color: #2e2b2b;
+    color: rgb(0, 0, 0);
+}
